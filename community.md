@@ -53,4 +53,10 @@
 | [@ReinhardtBotha](https://github.com/ReinhardtBotha) | [NZXT-Aviation-Gauge-Web-Integration](https://github.com/ReinhardtBotha/NZXT-aviation/) | https://reinhardtbotha.github.io/NZXT-aviation/ | [NZXT CAM :arrow_upper_right:](https://cam-redirect.nzxt.com/action/load-web-integration?url=https://reinhardtbotha.github.io/NZXT-aviation/)<br>[NZXT CAM Beta :arrow_upper_right:](https://cam-beta-redirect.nzxt.com/action/load-web-integration?url=https://reinhardtbotha.github.io/NZXT-aviation/) |
 
 
+## NZXT Elite Screen Customizer (nzxt-esc)
 
+> A full real-time LCD overlay editor for Kraken Elite, featuring drag-and-drop layout editing, media backgrounds, text/metric elements, presets, and full NZXT Web Integration support.
+
+| Author                                   | Documentation                                   | Web Integration URL                                 | Try it now!                                                                                                                                                                                                                                                                                                 |
+| :--------------------------------------- | :----------------------------------------------- | :-------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [@mrgogo7](https://github.com/mrgogo7)   | [nzxt-esc](https://github.com/mrgogo7/nzxt-esc) | https://mrgogo7.github.io/nzxt-esc/                | [NZXT CAM :arrow_upper_right:](https://cam-redirect.nzxt.com/action/load-web-integration?url=https://mrgogo7.github.io/nzxt-esc/)<br>[NZXT CAM Beta :arrow_upper_right:](https://cam-beta-redirect.nzxt.com/action/load-web-integration?url=https://mrgogo7.github.io/nzxt-esc/) |
