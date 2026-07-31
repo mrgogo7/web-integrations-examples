@@ -1,6 +1,6 @@
 # Web Integrations - Community Projects
 
-This is a place for creators, developers, and enthusiasts to share their projects and enhancements for Web Integrations. We value the open-source community and believe in its potential to bring about creativity. Submissions are listed [here](https://github.com/NZXTCorp/web-integrations-examples/blob/main/community.md).
+This is a place for creators, developers, and enthusiasts to share their projects and enhancements for Web Integrations. We value the open-source community and believe in its potential to bring about creativity. Submissions are listed [here](https://github.com/NZXTCorp/web-integrations-examples#community-web-integrations).
 
 ## Guidelines
 
@@ -15,7 +15,7 @@ Please adhere to the following guidelines when making a project submission:
 To submit your project, please follow these steps:
 
 1. Clone this repository and create a new branch.
-2. Add your project to the Project List section in the README file (follow the existing format).
+2. Add your project to the Community Web Integrations section in the README file (follow the existing format).
 3. Create a pull request with a brief description of your project.
    We'll review your submission as soon as possible. If it meets our guidelines and fits within our ecosystem, we'll merge your pull request and your project will appear on the list!
 
